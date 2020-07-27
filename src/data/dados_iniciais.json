@@ -1,6 +1,59 @@
 {
   "categorias": [
     {
+      "titulo": "Games",
+      "cor": "red",
+      "link_extra": {
+        "text": "Recentemente jogados"
+      },
+      "videos": [
+        {
+          "titulo": "The Witcher",
+          "url": "https://www.youtube.com/watch?v=c0i88t0Kacs"
+        },
+        {
+          "titulo": "The Crew 2",
+          "url": "https://www.youtube.com/watch?v=D3Enbdr_V-4"
+        },
+        {
+          "titulo": "Rise of the Tomb Raider",
+          "url": "https://www.youtube.com/watch?v=1_FIyNcQSgA"
+        },
+        {
+          "titulo": "Ryse - son of Rome",
+          "url": "https://www.youtube.com/watch?v=QNO9n9TthZg"
+        },
+        {
+          "titulo": "Watch dogs 2",
+          "url": "https://www.youtube.com/watch?v=qp7zjfBS5p8"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "orange",
+      "link_extra": {
+        "text": "recentemente assistidos"},
+      "videos": [
+        {
+          "titulo": "The Old Guard - Netflix",
+          "url": "https://www.youtube.com/watch?v=aK-X2d0lJ_s"
+        },
+        {
+          "titulo": "Avengers: Ultimato",
+          "url": "https://www.youtube.com/watch?v=g6ng8iy-l0U"
+        },
+        {
+          "titulo": "Até o último homem",
+          "url": "https://www.youtube.com/watch?v=4s4UCxCv_OE"
+        },
+        {
+          "titulo": "Golpe Duplo",
+          "url": "https://www.youtube.com/watch?v=xv7tlO-4kEg"
+        }
+      ]
+    },
+    {
       "titulo": "Front End",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
@@ -99,59 +152,8 @@
         }
       ]
     },
-    {
-      "titulo": "Filmes",
-      "cor": "orange",
-      "link_extra": {
-        "text": "recentemente assistidos"},
-      "videos": [
-        {
-          "titulo": "The Old Guard - Netflix",
-          "url": "https://www.youtube.com/watch?v=aK-X2d0lJ_s"
-        },
-        {
-          "titulo": "Avengers: Ultimato",
-          "url": "https://www.youtube.com/watch?v=g6ng8iy-l0U"
-        },
-        {
-          "titulo": "Até o último homem",
-          "url": "https://www.youtube.com/watch?v=4s4UCxCv_OE"
-        },
-        {
-          "titulo": "Golpe Duplo",
-          "url": "https://www.youtube.com/watch?v=xv7tlO-4kEg"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
-      "cor": "red",
-      "link_extra": {
-        "text": "Recentemente jogados"
-      },
-      "videos": [
-        {
-          "titulo": "The Witcher",
-          "url": "https://www.youtube.com/watch?v=c0i88t0Kacs"
-        },
-        {
-          "titulo": "The Crew 2",
-          "url": "https://www.youtube.com/watch?v=D3Enbdr_V-4"
-        },
-        {
-          "titulo": "Rise of the Tomb Raider",
-          "url": "https://www.youtube.com/watch?v=1_FIyNcQSgA"
-        },
-        {
-          "titulo": "Ryse - son of Rome",
-          "url": "https://www.youtube.com/watch?v=QNO9n9TthZg"
-        },
-        {
-          "titulo": "Watch dogs 2",
-          "url": "https://www.youtube.com/watch?v=qp7zjfBS5p8"
-        }
-      ]
-    },
+    
+
     {
       "titulo": "Aprendendo a aprender tecnologia",
       "cor": "#6b5be2",

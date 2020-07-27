@@ -31,6 +31,7 @@ function VideoCardGroup({
           }
 
           return (
+            
             <li key={video.titulo}>
               <VideoCard
                 videoTitle={video.titulo}
