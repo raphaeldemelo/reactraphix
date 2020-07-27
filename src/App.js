@@ -13,7 +13,7 @@ export default function App() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa!"}
+        videoDescription={"O jogo se passa logo após os fatos do segundo, em que Geralt já é um temido e conhecido guerreiro na terra de Nilfgaard. Neste cenário, ele é perseguido pela Wild Hunt, uma ordem de cavaleiros fantasmagóricos, que farão de tudo para abater o lendário Witcher. Para escapar desta ameaça, o jogador deve buscar aliados e conseguir novos poderes ao longo de sua jornada em um gigantesco mundo para ser explorado."}
       />
 
       <Carousel
