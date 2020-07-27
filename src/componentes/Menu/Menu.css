@@ -24,13 +24,11 @@
     padding-left: 5%;
     padding-right: 5%;
   
-    background: var(--black);
-    border-bottom: 2px solid var(--primary);
-    -webkit-transition: all 0.2s;
-    -moz-transition: all 0.2s;
-    -ms-transition: all 0.2s;
-    -o-transition: all 0.2s;
-  }
+    background: rgba(0, 0, 0, 0.8);
+    box-shadow: 0px 5px 5px black;
+    margin-bottom: 10px;
+    
+  },
   body {
     --bodyPaddingTop: 94px;
     padding-top: var(--bodyPaddingTop);

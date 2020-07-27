@@ -14,7 +14,7 @@ export const Title = styled.h3`
 
   @media (max-width: 800px) {
     font-size: 18px;
-    padding: 100px;
+    padding: 10px;
   }
 `;
 
