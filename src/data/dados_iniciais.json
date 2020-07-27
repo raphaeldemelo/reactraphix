@@ -103,11 +103,11 @@
       "titulo": "Filmes",
       "cor": "orange",
       "link_extra": {
-        "text": "Filmes favoritos"},
+        "text": "recentemente assistidos"},
       "videos": [
         {
-          "titulo": "Perdido em Marte",
-          "url": "https://www.youtube.com/watch?v=tCAgtzMUCaA"
+          "titulo": "The Old Guard - Netflix",
+          "url": "https://www.youtube.com/watch?v=aK-X2d0lJ_s"
         },
         {
           "titulo": "Avengers: Ultimato",
