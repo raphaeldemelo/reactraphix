@@ -24,14 +24,15 @@
     padding-left: 5%;
     padding-right: 5%;
   
-    background: black;
+    background: rgb(0,0,0);
+    background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 62%, rgba(254,255,255,0) 100%, rgba(86,87,87,1) 100%);
     -webkit-transition: all 0.2s;
     -moz-transition: all 0.2s;
     -ms-transition: all 0.2s;
     -o-transition: all 0.2s;
   }
   body {
-    --bodyPaddingTop: 94px;
+    --bodyPaddingTop: 60px;
     padding-top: var(--bodyPaddingTop);
   }
   @media (max-width: 800px) {
@@ -40,7 +41,7 @@
       justify-content: center;
     }
     body {
-      --bodyPaddingTop: 40px;
+      --bodyPaddingTop: 20px;
       padding-top: var(--bodyPaddingTop);
     }
   }
