@@ -53,6 +53,38 @@
         }
       ]
     },
+
+    {
+      "titulo": "Canais favoritos",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": ""
+        
+      },
+      "videos": [
+        {
+          "titulo": "Design UX/UI, Home Office, Dev em Cidade Pequena, Portfólio, Insegurança | #PR 11",
+          "url": "https://www.youtube.com/watch?v=RlK8nu_YErc"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Curso de HTML5 + CSS3 + JS atualizado em 2020",
+          "url": "https://www.youtube.com/watch?v=P8LxrpNQrTU"
+        }
+      ]
+    },
+
     {
       "titulo": "Front End",
       "link": "https://www.alura.com.br/formacao-front-end",
@@ -151,38 +183,9 @@
           "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
         }
       ]
-    },
+    }
     
 
-    {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
-      "videos": [
-        {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
-        },
-        {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
-        },
-        {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        },
-        {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
-        }
-      ]
-    }
+    
   ]
 }
