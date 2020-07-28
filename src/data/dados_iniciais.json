@@ -26,11 +26,16 @@
         {
           "titulo": "Watch dogs 2",
           "url": "https://www.youtube.com/watch?v=qp7zjfBS5p8"
+        },
+        
+        {
+          "titulo": "Assassins Creed Origins",
+          "url": "https://www.youtube.com/watch?v=u2jTCgw1_ag"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Filmes e Séries",
       "cor": "orange",
       "link_extra": {
         "text": "recentemente assistidos"},
@@ -50,6 +55,10 @@
         {
           "titulo": "Golpe Duplo",
           "url": "https://www.youtube.com/watch?v=xv7tlO-4kEg"
+        },
+        {
+          "titulo": "Homem-Aranha - De Volta Ao Lar (Dublado)",
+          "url": "https://www.youtube.com/watch?v=2x-2iYxgMFU"
         }
       ]
     },
