@@ -1,11 +1,11 @@
 import React from 'react';
-import Menu from './componentes/Menu'
-import dadosIniciais from './data/dados_iniciais.json';
-import BannerMain from './componentes/BannerMain';
-import Carousel from './componentes/Carousel';
-import Footer from './componentes/Footer';
+import Menu from '../../componentes/Menu'
+import dadosIniciais from '../../data/dados_iniciais.json';
+import BannerMain from '../../componentes/BannerMain';
+import Carousel from '../../componentes/Carousel';
+import Footer from '../../componentes/Footer';
 
-export default function App() {
+export default function Home() {
   return (
     <div style={{ background: "#141414" }}>
       <Menu />
