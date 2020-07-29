@@ -1,70 +1,90 @@
 {
   "categorias": [
     {
-      "titulo": "Games",
+      "titulo": "Ponto turístico do Rio de Janeiro",
       "cor": "red",
       "link_extra": {
-        "text": "Recentemente jogados"
+        "text": ""
       },
       "videos": [
         {
-          "titulo": "The Witcher",
-          "url": "https://www.youtube.com/watch?v=c0i88t0Kacs"
+          "titulo": "Os 10 melhores pontos turísticos do Rio de Janeiro p/ conhecer num final de semana ",
+          "url": "https://www.youtube.com/watch?v=cSufidpJVKw"
         },
         {
-          "titulo": "The Crew 2",
-          "url": "https://www.youtube.com/watch?v=D3Enbdr_V-4"
+          "titulo": "Cabo Frio RJ: O que Fazer - Praias e Pontos Turísticos",
+          "url": "https://www.youtube.com/watch?v=gB3WFcCTONg"
         },
         {
-          "titulo": "Rise of the Tomb Raider",
-          "url": "https://www.youtube.com/watch?v=1_FIyNcQSgA"
+          "titulo": "ARRAIAL DO CABO - DICAS DE PASSEIO - RIO DE JANEIRO",
+          "url": "https://www.youtube.com/watch?v=qFrnphf_30I"
         },
         {
-          "titulo": "Ryse - son of Rome",
-          "url": "https://www.youtube.com/watch?v=QNO9n9TthZg"
+          "titulo": "O que fazer em PETRÓPOLIS? Visitando a CIDADE IMPERIAL em 1 dia",
+          "url": "https://www.youtube.com/watch?v=XRH9658edmI"
         },
         {
-          "titulo": "Watch dogs 2",
-          "url": "https://www.youtube.com/watch?v=qp7zjfBS5p8"
+          "titulo": "O QUE FAZER EM TERESÓPOLIS",
+          "url": "https://www.youtube.com/watch?v=J5nIh6IxBd0"
         },
         
         {
-          "titulo": "Assassins Creed Origins",
-          "url": "https://www.youtube.com/watch?v=u2jTCgw1_ag"
+          "titulo": "O QUE FAZER EM PARATY",
+          "url": "https://www.youtube.com/watch?v=7Jw9MixgSKo"
+        },
+
+        {
+          "titulo": "O QUE FAZER EM BÚZIOS",
+          "url": "https://www.youtube.com/watch?v=isVaOOerOpU"
+        },
+
+        {
+          "titulo": "O QUE FAZER EM ANGRA DOS REIS",
+          "url": "https://www.youtube.com/watch?v=PIC_I1JRlac"
         }
+
+        
+
+        
       ]
     },
     {
-      "titulo": "Filmes e Séries",
+      "titulo": "Ponto Turístico de São Paulo",
       "cor": "orange",
       "link_extra": {
-        "text": "recentemente assistidos"},
+        "text": ""},
       "videos": [
         {
-          "titulo": "The Old Guard - Netflix",
-          "url": "https://www.youtube.com/watch?v=aK-X2d0lJ_s"
+          "titulo": "15 PONTOS TURÍSTICOS EM SÃO PAULO",
+          "url": "https://www.youtube.com/watch?v=NgWX2X8dVuw"
         },
         {
-          "titulo": "Avengers: Ultimato",
-          "url": "https://www.youtube.com/watch?v=g6ng8iy-l0U"
+          "titulo": "SÃO PAULO | PROGRAMA VIAGEM COMIGO",
+          "url": "https://www.youtube.com/watch?v=3EvAi6ikg7s"
         },
         {
-          "titulo": "Até o último homem",
-          "url": "https://www.youtube.com/watch?v=4s4UCxCv_OE"
+          "titulo": "CAMPOS DO JORDÃO",
+          "url": "https://www.youtube.com/watch?v=kHiStvqvCaY"
         },
         {
-          "titulo": "Golpe Duplo",
-          "url": "https://www.youtube.com/watch?v=xv7tlO-4kEg"
+          "titulo": "UM DIA EM ITU",
+          "url": "https://www.youtube.com/watch?v=Yo0vv2hbyY4"
         },
         {
-          "titulo": "Homem-Aranha - De Volta Ao Lar (Dublado)",
-          "url": "https://www.youtube.com/watch?v=2x-2iYxgMFU"
+          "titulo": "O MELHOR DA CIDADE DE SANTOS",
+          "url": "https://www.youtube.com/watch?v=PvDTVvDAcpU"
+        },
+
+        {
+          "titulo": "5 LUGARES PARA CONHECER EM UBATUBA",
+          "url": "https://www.youtube.com/watch?v=itGaD2hF4Q4"
         }
+
       ]
     },
 
     {
-      "titulo": "Canais favoritos",
+      "titulo": "Ponto Turístico do Rio Grande do Sul",
       "cor": "#6b5be2",
       "link_extra": {
         "text": ""
@@ -72,127 +92,102 @@
       },
       "videos": [
         {
-          "titulo": "Design UX/UI, Home Office, Dev em Cidade Pequena, Portfólio, Insegurança | #PR 11",
-          "url": "https://www.youtube.com/watch?v=RlK8nu_YErc"
+          "titulo": "CANELA RS: PASSEIOS E MELHORES PONTOS TURÍSTICOS DA CIDADE",
+          "url": "https://www.youtube.com/watch?v=C07GFrib3aM"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "O QUE FAZER EM GRAMADO",
+          "url": "https://www.youtube.com/watch?v=4FyYFPJcDtM"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "10 PONTOS TURÍSTICOS MAIS VISITADOS EM PELOTAS",
+          "url": "https://www.youtube.com/watch?v=GmTeHHfUpPU"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "CONHEÇA LAJEADO",
+          "url": "https://www.youtube.com/watch?v=kP5u28XyLe0"
         },
         {
-          "titulo": "Curso de HTML5 + CSS3 + JS atualizado em 2020",
-          "url": "https://www.youtube.com/watch?v=P8LxrpNQrTU"
+          "titulo": "PASSEIOS EM CAMBARÁ DO SUL",
+          "url": "https://www.youtube.com/watch?v=pETVdvvgXyw"
         }
       ]
     },
 
     {
-      "titulo": "Front End",
+      "titulo": "Ponto Turístico de Minas Gerais",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "O QUE FAZER EM BELO HORIZONTE",
+          "url": "https://www.youtube.com/watch?v=S0CdNEw3cFU"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "FIM DE SEMANA EM OURO PRETO: PRINCIPAIS PONTOS TURÍSTICOS",
+          "url": "https://www.youtube.com/watch?v=ogzJvZ-k7t0"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "CONGONHAS - MG",
+          "url": "hhttps://www.youtube.com/watch?v=diHcZ5Eb-Go"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "TIRADENTES (MG)",
+          "url": "https://www.youtube.com/watch?v=NMPozwZWDXg"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "CONHEÇA MARIANA",
+          "url": "https://www.youtube.com/watch?v=w38W01zv6us"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": " QUANTO CUSTA E O QUER FAZER EM CAPITÓLIO",
+          "url": "https://www.youtube.com/watch?v=nbJSsr8d2BY"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "O QUE FAZER EM CARRANCAS",
+          "url": "https://www.youtube.com/watch?v=370LdMRKbX4"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "CONHEÇA POÇOS DE CALDAS",
+          "url": "https://www.youtube.com/watch?v=k6dkpbFbvmc"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Ponto Turístico da Bahia",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "O QUE FAZER EM PORTO SEGURO",
+          "url": "https://www.youtube.com/watch?v=f_gh0h3VrbE"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "12h EM SALVADOR",
+          "url": "https://www.youtube.com/watch?v=abSRtdAzTnI"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "MORRO DE SÃO PAULO",
+          "url": "https://www.youtube.com/watch?v=8myNg8PLoIw"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "ILHÉUS",
+          "url": "https://www.youtube.com/watch?v=F65RF2Fm1w4"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
-        }
-      ]
-    },
-    {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
-      "videos": [
-        {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
-        },
-        {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
-        },
-        {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
-        },
-        {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "O QUE FAZER EM LENÇOIS, BAHIA?",
+          "url": "https://www.youtube.com/watch?v=pabwvPAaalI"
         }
       ]
     }
+
     
 
     

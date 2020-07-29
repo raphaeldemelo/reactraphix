@@ -13,7 +13,7 @@ export default function Home() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"O jogo se passa logo após os fatos do segundo, em que Geralt já é um temido e conhecido guerreiro na terra de Nilfgaard. Neste cenário, ele é perseguido pela Wild Hunt, uma ordem de cavaleiros fantasmagóricos, que farão de tudo para abater o lendário Witcher."}
+        videoDescription={""}
       />
 
       <Carousel
@@ -36,10 +36,7 @@ export default function Home() {
       <Carousel
         category={dadosIniciais.categorias[4]}
       />      
-
-      <Carousel
-        category={dadosIniciais.categorias[5]}
-      />      
+      
 
       <Footer />
     </div>
