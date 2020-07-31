@@ -1,6 +1,7 @@
 {
   "categorias": [
     {
+      "id": 1,
       "titulo": "Ponto turístico do Rio de Janeiro",
       "cor": "red",
       "link_extra": {
@@ -27,32 +28,27 @@
           "titulo": "O QUE FAZER EM TERESÓPOLIS",
           "url": "https://www.youtube.com/watch?v=J5nIh6IxBd0"
         },
-        
         {
           "titulo": "O QUE FAZER EM PARATY",
           "url": "https://www.youtube.com/watch?v=7Jw9MixgSKo"
         },
-
         {
           "titulo": "O QUE FAZER EM BÚZIOS",
           "url": "https://www.youtube.com/watch?v=isVaOOerOpU"
         },
-
         {
           "titulo": "O QUE FAZER EM ANGRA DOS REIS",
           "url": "https://www.youtube.com/watch?v=PIC_I1JRlac"
         }
-
-        
-
-        
       ]
     },
     {
+      "id": 2,
       "titulo": "Ponto Turístico de São Paulo",
       "cor": "orange",
       "link_extra": {
-        "text": ""},
+        "text": ""
+      },
       "videos": [
         {
           "titulo": "15 PONTOS TURÍSTICOS EM SÃO PAULO",
@@ -74,21 +70,18 @@
           "titulo": "O MELHOR DA CIDADE DE SANTOS",
           "url": "https://www.youtube.com/watch?v=PvDTVvDAcpU"
         },
-
         {
           "titulo": "5 LUGARES PARA CONHECER EM UBATUBA",
           "url": "https://www.youtube.com/watch?v=itGaD2hF4Q4"
         }
-
       ]
     },
-
     {
+      "id": 3,
       "titulo": "Ponto Turístico do Rio Grande do Sul",
       "cor": "#6b5be2",
       "link_extra": {
         "text": ""
-        
       },
       "videos": [
         {
@@ -113,8 +106,8 @@
         }
       ]
     },
-
     {
+      "id": 4,
       "titulo": "Ponto Turístico de Minas Gerais",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
@@ -154,10 +147,11 @@
         {
           "titulo": "CONHEÇA POÇOS DE CALDAS",
           "url": "https://www.youtube.com/watch?v=k6dkpbFbvmc"
-        }        
+        }
       ]
     },
     {
+      "id": 5,
       "titulo": "Ponto Turístico da Bahia",
       "cor": "#00C86F",
       "link_extra": {
@@ -180,16 +174,12 @@
         {
           "titulo": "ILHÉUS",
           "url": "https://www.youtube.com/watch?v=F65RF2Fm1w4"
-        }, 
+        },
         {
           "titulo": "O QUE FAZER EM LENÇOIS, BAHIA?",
           "url": "https://www.youtube.com/watch?v=pabwvPAaalI"
         }
       ]
     }
-
-    
-
-    
   ]
 }

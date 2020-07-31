@@ -1,17 +1,246 @@
 {
-    "categorias": [
-        {
-            "id": 1,
-            "nome": "Front End",
-            "descricao": "Uma categoria bacana",
-            "cor": "#cbd1ff"
-        },
-
-        {
-            "id": 2,
-            "nome": "back End",
-            "descricao": "outra categoria bacana",
-            "cor": "#cbd1ff"
-        }
-    ]
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Ponto turístico do Rio de Janeiro",
+      "cor": "red",
+      "link_extra": {
+        "text": ""
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Ponto Turístico de São Paulo",
+      "cor": "orange",
+      "link_extra": {
+        "text": "formação de front end na alura"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "Ponto Turístico do Rio Grande do Sul",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "formação de front end na alura"
+      }
+    },
+    {
+      "id": 4,
+      "titulo": "Ponto Turístico de Minas Gerais",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      }
+    },
+    {
+      "id": 5,
+      "titulo": "Ponto Turístico da Bahia",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      }
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "Cabo Frio RJ: O que Fazer - Praias e Pontos Turísticos",
+      "url": "https://www.youtube.com/watch?v=gB3WFcCTONg"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Os 10 melhores pontos turísticos do Rio de Janeiro p/ conhecer num final de semana ",
+      "url": "https://www.youtube.com/watch?v=cSufidpJVKw"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "ARRAIAL DO CABO - DICAS DE PASSEIO - RIO DE JANEIRO",
+      "url": "https://www.youtube.com/watch?v=qFrnphf_30I"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "O que fazer em PETRÓPOLIS? Visitando a CIDADE IMPERIAL em 1 dia",
+      "url": "https://www.youtube.com/watch?v=XRH9658edmI"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "O QUE FAZER EM TERESÓPOLIS",
+      "url": "https://www.youtube.com/watch?v=J5nIh6IxBd0"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "O QUE FAZER EM PARATY",
+      "url": "https://www.youtube.com/watch?v=7Jw9MixgSKo"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "O QUE FAZER EM BÚZIOS",
+      "url": "https://www.youtube.com/watch?v=isVaOOerOpU"
+    },
+    {
+      "id": 8,
+      "categoriaId": 1,
+      "titulo": "O QUE FAZER EM ANGRA DOS REIS",
+      "url": "https://www.youtube.com/watch?v=PIC_I1JRlac"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "15 PONTOS TURÍSTICOS EM SÃO PAULO",
+      "url": "https://www.youtube.com/watch?v=NgWX2X8dVuw"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "SÃO PAULO | PROGRAMA VIAGEM COMIGO",
+      "url": "https://www.youtube.com/watch?v=3EvAi6ikg7s"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "CAMPOS DO JORDÃO",
+      "url": "https://www.youtube.com/watch?v=kHiStvqvCaY"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "UM DIA EM ITU",
+      "url": "https://www.youtube.com/watch?v=Yo0vv2hbyY4"
+    },
+    {
+      "id": 13,
+      "categoriaId": 2,
+      "titulo": "O MELHOR DA CIDADE DE SANTOS",
+      "url": "https://www.youtube.com/watch?v=PvDTVvDAcpU"
+    },
+    {
+      "id": 14,
+      "categoriaId": 2,
+      "titulo": "5 LUGARES PARA CONHECER EM UBATUBA",
+      "url": "https://www.youtube.com/watch?v=itGaD2hF4Q4"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "CANELA RS: PASSEIOS E MELHORES PONTOS TURÍSTICOS DA CIDADE",
+      "url": "https://www.youtube.com/watch?v=C07GFrib3aM"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "O QUE FAZER EM GRAMADO",
+      "url": "https://www.youtube.com/watch?v=4FyYFPJcDtM"
+    },
+    {
+      "id": 17,
+      "categoriaId": 3,
+      "titulo": "10 PONTOS TURÍSTICOS MAIS VISITADOS EM PELOTAS",
+      "url": "https://www.youtube.com/watch?v=GmTeHHfUpPU"
+    },
+    {
+      "id": 18,
+      "categoriaId": 3,
+      "titulo": "CONHEÇA LAJEADO",
+      "url": "https://www.youtube.com/watch?v=kP5u28XyLe0"
+    },
+    {
+      "id": 19,
+      "categoriaId": 3,
+      "titulo": "PASSEIOS EM CAMBARÁ DO SUL",
+      "url": "https://www.youtube.com/watch?v=pETVdvvgXyw"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "O QUE FAZER EM BELO HORIZONTE",
+      "url": "https://www.youtube.com/watch?v=S0CdNEw3cFU"
+    },
+    {
+      "id": 21,
+      "categoriaId": 4,
+      "titulo": "FIM DE SEMANA EM OURO PRETO: PRINCIPAIS PONTOS TURÍSTICOS",
+      "url": "https://www.youtube.com/watch?v=ogzJvZ-k7t0"
+    },
+    {
+      "id": 22,
+      "categoriaId": 4,
+      "titulo": "CONGONHAS - MG",
+      "url": "hhttps://www.youtube.com/watch?v=diHcZ5Eb-Go"
+    },
+    {
+      "id": 23,
+      "categoriaId": 4,
+      "titulo": "TIRADENTES (MG)",
+      "url": "https://www.youtube.com/watch?v=NMPozwZWDXg"
+    },
+    {
+      "id": 24,
+      "categoriaId": 4,
+      "titulo": "CONHEÇA MARIANA",
+      "url": "https://www.youtube.com/watch?v=w38W01zv6us"
+    },
+    {
+      "id": 25,
+      "categoriaId": 4,
+      "titulo": " QUANTO CUSTA E O QUER FAZER EM CAPITÓLIO",
+      "url": "https://www.youtube.com/watch?v=nbJSsr8d2BY"
+    },
+    {
+      "id": 26,
+      "categoriaId": 4,
+      "titulo": "O QUE FAZER EM CARRANCAS",
+      "url": "https://www.youtube.com/watch?v=370LdMRKbX4"
+    },
+    {
+      "id": 27,
+      "categoriaId": 4,
+      "titulo": "CONHEÇA POÇOS DE CALDAS",
+      "url": "https://www.youtube.com/watch?v=k6dkpbFbvmc"
+    },
+    {
+      "id": 28,
+      "categoriaId": 5,
+      "titulo": "O QUE FAZER EM PORTO SEGURO",
+      "url": "https://www.youtube.com/watch?v=f_gh0h3VrbE"
+    },
+    {
+      "id": 29,
+      "categoriaId": 5,
+      "titulo": "12h EM SALVADOR",
+      "url": "https://www.youtube.com/watch?v=abSRtdAzTnI"
+    },
+    {
+      "id": 30,
+      "categoriaId": 5,
+      "titulo": "MORRO DE SÃO PAULO",
+      "url": "https://www.youtube.com/watch?v=8myNg8PLoIw"
+    },
+    {
+      "id": 31,
+      "categoriaId": 5,
+      "titulo": "ILHÉUS",
+      "url": "https://www.youtube.com/watch?v=F65RF2Fm1w4"
+    },
+    {
+      "id": 32,
+      "categoriaId": 5,
+      "titulo": "O QUE FAZER EM LENÇOIS, BAHIA?",
+      "url": "https://www.youtube.com/watch?v=pabwvPAaalI"
+    },
+    {
+      "titulo": "28 lugares para conhecer no Rio de janeiro",
+      "url": "https://www.youtube.com/watch?v=AVX4D4qc9Ag&t=2s",
+      "categoriaId": 1,
+      "id": 33
+    }
+  ]
 }
